@@ -1,0 +1,19 @@
+{
+  "name": "dynamictable_basic",
+  "version": "1.0.2",
+  "description": "Use to create a table quickly and efficiently",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayureshDMadav/Dynamic_Table_React.git"
+  },
+  "author": "MayureshMadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayureshDMadav/Dynamic_Table_React/issues"
+  },
+  "homepage": "https://github.com/MayureshDMadav/Dynamic_Table_React#readme"
+}
